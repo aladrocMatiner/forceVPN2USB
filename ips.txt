@@ -1,0 +1,20 @@
+# Rutas que van POR EL TÚNEL OpenVPN (para evitar Mullvad)
+tunnel:100.64.60.200
+tunnel:100.64.60.201
+tunnel:100.64.60.202
+tunnel:100.64.60.203
+tunnel:100.64.60.204
+tunnel:100.64.60.205
+tunnel:100.64.60.210
+tunnel:100.64.60.211
+tunnel:100.64.60.212
+tunnel:100.64.60.213
+tunnel:100.64.60.214
+tunnel:100.64.60.215
+
+# O toda la red:
+tunnel:100.64.60.0/24
+
+# Rutas que van DIRECTAMENTE por USB (sin ningún túnel)
+1.1.1.1
+1.0.0.1
