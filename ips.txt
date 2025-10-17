@@ -13,7 +13,7 @@ tunnel:100.64.60.214
 tunnel:100.64.60.215
 
 # O toda la red:
-tunnel:100.64.60.0/24
+#tunnel:100.64.60.0/24
 
 # Rutas que van DIRECTAMENTE por USB (sin ningún túnel)
 1.1.1.1
